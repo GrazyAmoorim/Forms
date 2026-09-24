@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(218, 248, 248);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    width: 260px;
+    align-items: center;
+    border-radius: 8px;
+
+
+}
+
+
+label{
+    display: block;
+    margin-top: 10px;
+}
+
+
+button{
+    background-color: rgb(239, 246, 255);
+    border-radius: 8px;
+    margin-top: 15px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#mensagem{
+    color: red;
+
+}
+
+
+input{
+    margin-top: 5px;
+    width: 100%;
+    padding:8px
+    box-sizing: border-box;
+}
+   
+   
+    
+
